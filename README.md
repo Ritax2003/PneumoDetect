@@ -22,7 +22,8 @@
   <tr>
     <td>Parthiv Modak
       <br>
-    <image width="100" height="100" src="assets/"></td>
+    <img width="100" height="100" src="https://github.com/user-attachments/assets/35e26c93-2765-44ac-875d-933d776e4f2d">
+</td>
     <td>
       <ul>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Manager-blue"></li>
