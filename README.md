@@ -56,7 +56,7 @@
       <tr>
     <td>Souvik Mondal
       <br>
-    <image width="100" height="100" src="assets/"></td>
+    <image width="100" height="100" src="https://github.com/user-attachments/assets/86202a2f-d2b5-4c52-84aa-51fdc6753882"></td>
     <td>
       <ul>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Documentation-green"></li>
