@@ -27,7 +27,6 @@
       <ul>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Manager-blue"></li>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Model Developer-red"></li>
-        
       </ul>
     </td>
   </tr>
