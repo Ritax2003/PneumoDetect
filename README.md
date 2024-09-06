@@ -44,7 +44,7 @@
       <tr>
     <td>Ankita Dutta
       <br>
-    <image width="100" height="100" src="assets/"></td>
+   <img width="100" height="100" src="https://github.com/user-attachments/assets/91bf0b78-ef5b-4403-9702-d6e9e3a19807">
     <td>
       <ul>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Research Paper Writer-yellow"></li>
