@@ -20,46 +20,46 @@
     <td>Role(s)</td>
   </tr>
   <tr>
-    <td>Patrika Chatterjee
+    <td>Parthiv Modak
       <br>
-    <image width="100" height="100" src="assets/naru.jpeg"></td>
+    <image width="100" height="100" src="assets/"></td>
     <td>
       <ul>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Manager-blue"></li>
-        <li><img alt="Static Badge" src="https://img.shields.io/badge/Frontend-green"></li>
+        <li><img alt="Static Badge" src="https://img.shields.io/badge/Model Developer-red"></li>
+        
+      </ul>
+    </td>
+  </tr>
+      <tr>
+    <td>Sourasish Mondal
+      <br>
+    <image width="100" height="100" src="assets/Sourasish.png"></td>
+    <td>
+      <ul>
+        <li><img alt="Static Badge" src="https://img.shields.io/badge/Model Developer-red"></li>
         <li><img alt="Static Badge" src="https://img.shields.io/badge/Backend-Red"></li>
       </ul>
     </td>
   </tr>
       <tr>
-    <td>Titli Paul
+    <td>Ankita Dutta
       <br>
-    <image width="100" height="100" src="assets/titli.jpeg"></td>
+    <image width="100" height="100" src="assets/"></td>
     <td>
       <ul>
-        <li><img alt="Static Badge" src="https://img.shields.io/badge/Documentation-purple"></li>
+        <li><img alt="Static Badge" src="https://img.shields.io/badge/Research Paper Writer-yellow"></li>
+        <li><img alt="Static Badge" src="https://img.shields.io/badge/Frontend-yellow"></li>
       </ul>
     </td>
   </tr>
       <tr>
-    <td>Sumit Mitra
+    <td>Souvik Mondal
       <br>
-    <image width="100" height="100" src="assets/sumit.jpeg"></td>
+    <image width="100" height="100" src="assets/"></td>
     <td>
       <ul>
-        <li><img alt="Static Badge" src="https://img.shields.io/badge/Model Developer-yellow"></li>
-        <li><img alt="Static Badge" src="https://img.shields.io/badge/Backend-Red"></li>
-      </ul>
-    </td>
-  </tr>
-      <tr>
-    <td>Ritabrata Dey
-      <br>
-    <image width="100" height="100" src="assets/Ritabrata dey.png"></td>
-    <td>
-      <ul>
-        <li><img alt="Static Badge" src="https://img.shields.io/badge/Frontend-green"></li>
-        <li><img alt="Static Badge" src="https://img.shields.io/badge/Backend-Red"></li>
+        <li><img alt="Static Badge" src="https://img.shields.io/badge/Documentation-green"></li>
       </ul>
     </td>
   </tr>
