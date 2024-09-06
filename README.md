@@ -30,14 +30,14 @@
         <td style="padding: 15px;"><strong>Parthiv Modak</strong></td>
         <td style="padding: 15px;">
           <img src="https://img.shields.io/badge/Manager-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Manager">
-          <img src="https://img.shields.io/badge/Model_Developer-yellow?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Developer">
+          <img src="https://img.shields.io/badge/Model_Developer-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Developer">
         </td>
       </tr>
       <tr style="background-color: #f2f2f2; border-bottom: 1px solid #ddd;">
         <td style="padding: 15px;"><img src="assets/Sourasish.png" width="100" height="100" style="border-radius: 50%;" alt="Sourasish Mondal"></td>
         <td style="padding: 15px;"><strong>Sourasish Mondal</strong></td>
         <td style="padding: 15px;">
-          <img src="https://img.shields.io/badge/Model_Developer-yellow?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Developer">
+          <img src="https://img.shields.io/badge/Model_Developer-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Developer">
           <img src="https://img.shields.io/badge/Backend-Red?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend">
         </td>
       </tr>
